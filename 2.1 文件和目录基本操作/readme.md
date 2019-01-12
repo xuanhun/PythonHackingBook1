@@ -262,10 +262,10 @@ def listCurrentDirectoryMode(path):
     for name in files:
          pathName = os.path.join(path, name)
          mode = os.stat(pathName).st_mode
-         if S_ISDIR(mode):
+         if stat.S_ISDIR(mode):
             # 如果是目录
             print('%s是文件夹' % pathName)
-         elif S_ISREG(mode):
+         elif stat.S_ISREG(mode):
             # 如果是文件
              print('%s是文件'%pathName)
          else:
