@@ -1,0 +1,7 @@
+我们卖的确切的说不是培训， 是圈子。 在圈子里有我们的原创教程和各种资源，持续更新；有各种不同水平和工作背景的人可以交流；定期的实战分享互动和答疑；原创课程目前面向入门，不强制教学进度，没有讲师按课时讲解，需要按照图文和视频教程 自学，有问题随时在星球和微信群提问。
+
+教程指导思想 https://mp.weixin.qq.com/s/fuaiUfmwbbrlG5DwrkNkdA
+
+教程清单 https://github.com/xuanhun/HackingResource/blob/master/index.md
+
+学习步骤建议：https://github.com/xuanhun/HackingResource
